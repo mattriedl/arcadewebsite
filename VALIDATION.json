@@ -1,0 +1,13 @@
+{
+  "html_pages": 1577,
+  "game_pages": 1562,
+  "category_pages": 12,
+  "sitemap_urls": 1576,
+  "unique_titles": 1577,
+  "unique_descriptions": 1577,
+  "iframe_paths": 1562,
+  "shell_errors": 0,
+  "missing_original_game_files": 1562,
+  "errors": [],
+  "note": "Missing original games are a deployment dependency, NOT replaced with placeholders. Game loads remain unverified."
+}
